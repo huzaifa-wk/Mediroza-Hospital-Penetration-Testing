@@ -1,0 +1,4 @@
+subject=CN=medirozahospital.com
+issuer=C=US, O=SSL Corporation, CN=SSL.com TLS Issuing RSA CA R1
+notBefore=Aug 14 20:59:46 2026 GMT
+notAfter=Feb 28 21:05:45 2027 GMT
